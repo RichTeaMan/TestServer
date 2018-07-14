@@ -6,6 +6,13 @@
     <RootNamespace>RichTea.TestServer</RootNamespace>
     <Version>0.1-beta</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Thomas Holmes</Authors>
+    <Company />
+    <Product />
+    <Copyright>Thomas Holmes 2018</Copyright>
+    <PackageLicenseUrl>https://github.com/RichTeaMan/TestServer/blob/master/licence.txt</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/RichTeaMan/TestServer</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/RichTeaMan/TestServer</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
