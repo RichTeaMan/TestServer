@@ -95,6 +95,7 @@ namespace RichTea.TestServer
             {
                 if (disposing)
                 {
+                    httpListener?.Stop();
                     httpListener?.Close();
                 }
 
